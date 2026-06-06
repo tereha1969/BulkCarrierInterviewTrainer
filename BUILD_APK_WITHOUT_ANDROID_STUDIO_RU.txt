@@ -1,0 +1,38 @@
+Как собрать APK без Android Studio через GitHub
+
+1. Зайдите на https://github.com
+2. Создайте новый репозиторий:
+   New repository -> Repository name: BulkCarrierInterviewTrainer -> Create repository
+
+3. Распакуйте этот ZIP.
+4. Загрузите ВСЕ файлы и папки из папки BulkCarrierInterviewNativeAPK_GitHub_Build в репозиторий.
+   Важно: должны загрузиться app, .github, build.gradle, settings.gradle.
+
+5. Откройте вкладку Actions.
+6. Выберите workflow: Build Android APK.
+7. Нажмите Run workflow.
+8. Подождите окончания сборки.
+9. Внизу страницы сборки появится Artifact:
+   BulkCarrierInterviewTrainer-debug-apk
+10. Скачайте его. Внутри будет:
+   app-debug.apk
+
+Как установить на Android:
+1. Передайте app-debug.apk на телефон.
+2. Откройте файл.
+3. Разрешите установку из неизвестных источников.
+4. Установите приложение.
+
+Что умеет APK:
+- 150 вопросов Chief Officer / Master Bulk Carrier.
+- Вопрос на английском.
+- Ответ на английском.
+- Объяснение на русском.
+- Continuous audio: вопрос -> ответ -> русское объяснение -> следующий вопрос.
+- Foreground service, чтобы проигрывание продолжалось при выключенном экране.
+- Уведомление с Pause / Resume / Stop.
+- Поиск и фильтр по разделам.
+
+Важно:
+- Это debug APK. Его можно устанавливать на телефон.
+- Для публикации в Google Play нужен release APK/AAB и подпись.

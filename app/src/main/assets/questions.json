@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "section": "SOLAS",
+    "q": "What is the main objective of SOLAS?",
+    "a": "The main objective of SOLAS is to specify minimum standards for the construction, equipment and operation of ships to ensure safety of life at sea.",
+    "ru": "SOLAS — основная конвенция по безопасности человеческой жизни на море. На интервью важно сказать, что она охватывает конструкцию судна, оборудование, аварийную готовность и эксплуатацию."
+  },
+  {
+    "id": 2,
+    "section": "SOLAS",
+    "q": "Which SOLAS chapter deals with fire protection?",
+    "a": "SOLAS Chapter II-2 deals with fire protection, fire detection and fire extinction.",
+    "ru": "Глава II-2 SOLAS регулирует пожарную безопасность: конструктивную защиту, обнаружение пожара, сигнализацию и средства тушения."
+  },
+  {
+    "id": 3,
+    "section": "SOLAS",
+    "q": "What are the Master's responsibilities under SOLAS?",
+    "a": "The Master is responsible for ensuring that the ship is operated in compliance with SOLAS and for taking all necessary measures to protect life, ship and environment.",
+    "ru": "Капитан отвечает за выполнение требований SOLAS на судне и имеет право принимать решения для обеспечения безопасности."
+  },
+  {
+    "id": 4,
+    "section": "SOLAS",
+    "q": "How often should abandon ship drills be conducted?",
+    "a": "Abandon ship drills shall be conducted at least once every month.",
+    "ru": "Учения по оставлению судна проводятся минимум один раз в месяц. Это часто проверяют PSC и внутренние аудиторы."
+  },
+  {
+    "id": 5,
+    "section": "SOLAS",
+    "q": "How often should fire drills be carried out?",
+    "a": "Fire drills shall be conducted at least once every month.",
+    "ru": "Пожарные учения также проводятся минимум ежемесячно. Экипаж должен знать обязанности по Muster List."
+  },
+  {
+    "id": 6,
+    "section": "SOLAS",
+    "q": "What is the purpose of the Muster List?",
+    "a": "The Muster List assigns emergency duties to crew members and ensures effective emergency response.",
+    "ru": "Muster List распределяет обязанности экипажа при пожаре, оставлении судна, человеке за бортом и других авариях."
+  },
+  {
+    "id": 7,
+    "section": "SOLAS",
+    "q": "What is an EEBD?",
+    "a": "An Emergency Escape Breathing Device is a self-contained breathing device used only for escape from hazardous atmospheres.",
+    "ru": "EEBD предназначен только для эвакуации из опасной атмосферы, а не для тушения пожара или входа в помещение."
+  },
+  {
+    "id": 8,
+    "section": "SOLAS",
+    "q": "What is the validity of a Cargo Ship Safety Equipment Certificate?",
+    "a": "Normally it is valid for five years, subject to annual and periodical surveys.",
+    "ru": "Сертификат обычно выдается на 5 лет, но требует ежегодных и периодических освидетельствований."
+  },
+  {
+    "id": 9,
+    "section": "SOLAS",
+    "q": "What is a Fire Control Plan?",
+    "a": "A Fire Control Plan shows the arrangement of fire-fighting equipment, fire zones, escape routes and emergency systems.",
+    "ru": "Fire Control Plan должен быть актуальным и доступным. Старпом обязан знать расположение средств пожаротушения."
+  },
+  {
+    "id": 10,
+    "section": "SOLAS",
+    "q": "What is the purpose of watertight doors?",
+    "a": "Watertight doors prevent progressive flooding by maintaining the watertight integrity between compartments.",
+    "ru": "Водонепроницаемые двери ограничивают распространение воды и помогают сохранить непотопляемость."
+  },
+  {
+    "id": 11,
+    "section": "SOLAS",
+    "q": "What is SOLAS Chapter V about?",
+    "a": "SOLAS Chapter V deals with safety of navigation.",
+    "ru": "Глава V охватывает навигационную безопасность: планирование перехода, навигационное оборудование, обязанности вахты."
+  },
+  {
+    "id": 12,
+    "section": "SOLAS",
+    "q": "What is the purpose of GMDSS?",
+    "a": "GMDSS provides a global system for distress alerting and maritime safety communications.",
+    "ru": "GMDSS нужен для передачи бедствия, срочности, безопасности и связи с береговыми станциями и судами."
+  },
+  {
+    "id": 13,
+    "section": "SOLAS",
+    "q": "What is the purpose of a lifeboat drill?",
+    "a": "To ensure that the crew can safely prepare, launch and operate survival craft in an emergency.",
+    "ru": "На интервью важно говорить не только про периодичность, но и про практическую готовность экипажа."
+  },
+  {
+    "id": 14,
+    "section": "SOLAS",
+    "q": "What is the purpose of LSA equipment?",
+    "a": "Life-saving appliances are used to protect and sustain life during an emergency at sea.",
+    "ru": "LSA включает шлюпки, плоты, жилеты, круги, пиротехнику и другое спасательное оборудование."
+  },
+  {
+    "id": 15,
+    "section": "SOLAS",
+    "q": "What is the purpose of FFA equipment?",
+    "a": "Fire-fighting appliances are used to detect, contain and extinguish fires onboard.",
+    "ru": "FFA — пожарные насосы, гидранты, рукава, огнетушители, CO₂, пена, SCBA и другое оборудование."
+  },
+  {
+    "id": 16,
+    "section": "SOLAS",
+    "q": "What is the role of the Safety Officer?",
+    "a": "The Safety Officer monitors safety standards, reports hazards and promotes safe working practices onboard.",
+    "ru": "Обычно на торговых судах эту роль часто выполняет старпом. Он контролирует безопасность работ."
+  },
+  {
+    "id": 17,
+    "section": "SOLAS",
+    "q": "What is the purpose of emergency lighting?",
+    "a": "Emergency lighting provides illumination for escape routes and emergency stations if main power fails.",
+    "ru": "Аварийное освещение должно работать при потере основного питания, особенно на путях эвакуации."
+  },
+  {
+    "id": 18,
+    "section": "SOLAS",
+    "q": "What are pyrotechnics used for?",
+    "a": "Pyrotechnics are used to attract attention and indicate distress at sea.",
+    "ru": "Ракеты, фальшфейеры и дымовые сигналы применяются только по назначению и должны быть в сроке годности."
+  },
+  {
+    "id": 19,
+    "section": "SOLAS",
+    "q": "What is the purpose of onboard emergency drills?",
+    "a": "Drills train the crew to respond quickly and correctly to emergency situations.",
+    "ru": "Учения нужны не для галочки, а для автоматизма действий экипажа при реальной аварии."
+  },
+  {
+    "id": 20,
+    "section": "SOLAS",
+    "q": "What should be checked before launching a lifeboat?",
+    "a": "The area is clear, plugs are fitted, painter is secured, crew are ready and launching equipment is operational.",
+    "ru": "Перед спуском шлюпки проверяют безопасность района, готовность экипажа, пробки, фалинь и шлюпбалки."
+  },
+  {
+    "id": 21,
+    "section": "MARPOL",
+    "q": "How many MARPOL Annexes are in force?",
+    "a": "There are six MARPOL Annexes in force.",
+    "ru": "Нужно знать все шесть приложений: нефть, вредные жидкие вещества, вредные вещества в упаковке, сточные воды, мусор и загрязнение воздуха."
+  },
+  {
+    "id": 22,
+    "section": "MARPOL",
+    "q": "What does MARPOL Annex I cover?",
+    "a": "MARPOL Annex I covers prevention of pollution by oil.",
+    "ru": "Для балкера это важно из-за льяльных вод, sludge, bunkering, SOPEP и Oil Record Book."
+  },
+  {
+    "id": 23,
+    "section": "MARPOL",
+    "q": "What is SOPEP?",
+    "a": "SOPEP stands for Shipboard Oil Pollution Emergency Plan.",
+    "ru": "SOPEP описывает действия при разливе нефти: остановить источник, локализовать, сообщить, записать и следовать процедурам."
+  },
+  {
+    "id": 24,
+    "section": "MARPOL",
+    "q": "What actions should be taken after an oil spill?",
+    "a": "Stop the source, contain the spill, inform the Master, notify authorities and follow SOPEP procedures.",
+    "ru": "Главное — немедленно остановить источник загрязнения и действовать по SOPEP. Не скрывать инцидент."
+  },
+  {
+    "id": 25,
+    "section": "MARPOL",
+    "q": "What does MARPOL Annex V regulate?",
+    "a": "Annex V regulates the prevention of pollution by garbage from ships.",
+    "ru": "Annex V касается мусора: разделение, хранение, сдача, записи в Garbage Record Book."
+  },
+  {
+    "id": 26,
+    "section": "MARPOL",
+    "q": "Can plastics be discharged into the sea?",
+    "a": "No. Discharge of plastics into the sea is prohibited.",
+    "ru": "Пластик запрещено сбрасывать в море в любых районах. Это частый вопрос PSC."
+  },
+  {
+    "id": 27,
+    "section": "MARPOL",
+    "q": "What is the purpose of the Oil Record Book?",
+    "a": "The Oil Record Book records oil-related operations such as bunkering, sludge disposal and bilge water discharge.",
+    "ru": "Записи должны быть точными, своевременными и соответствовать реальным операциям."
+  },
+  {
+    "id": 28,
+    "section": "MARPOL",
+    "q": "What is MARPOL Annex VI?",
+    "a": "Annex VI deals with prevention of air pollution from ships.",
+    "ru": "Приложение VI регулирует SOx, NOx, озоноразрушающие вещества, incinerator и энергоэффективность."
+  },
+  {
+    "id": 29,
+    "section": "MARPOL",
+    "q": "What is SEEMP?",
+    "a": "SEEMP is the Ship Energy Efficiency Management Plan.",
+    "ru": "SEEMP описывает меры по повышению энергоэффективности судна и снижению выбросов."
+  },
+  {
+    "id": 30,
+    "section": "MARPOL",
+    "q": "What is EEXI?",
+    "a": "EEXI is the Energy Efficiency Existing Ship Index for existing ships.",
+    "ru": "EEXI показывает соответствие существующего судна требованиям энергоэффективности."
+  },
+  {
+    "id": 31,
+    "section": "MARPOL",
+    "q": "What is CII?",
+    "a": "CII is the Carbon Intensity Indicator, measuring operational carbon intensity.",
+    "ru": "CII оценивает фактическую углеродную эффективность судна в эксплуатации."
+  },
+  {
+    "id": 32,
+    "section": "MARPOL",
+    "q": "What is the purpose of the Garbage Record Book?",
+    "a": "It records garbage discharge, incineration and delivery to reception facilities.",
+    "ru": "Инспекторы часто сверяют Garbage Record Book с квитанциями сдачи мусора."
+  },
+  {
+    "id": 33,
+    "section": "MARPOL",
+    "q": "What are special areas under MARPOL?",
+    "a": "Special areas are sea areas where stricter discharge requirements apply due to environmental sensitivity.",
+    "ru": "В специальных районах правила сброса более строгие. Нужно знать район плавания."
+  },
+  {
+    "id": 34,
+    "section": "MARPOL",
+    "q": "What is OWS?",
+    "a": "An oily water separator separates oil from bilge water before permitted discharge.",
+    "ru": "OWS должен использоваться только согласно MARPOL, с 15 ppm alarm и правильными записями."
+  },
+  {
+    "id": 35,
+    "section": "MARPOL",
+    "q": "What is the 15 ppm alarm?",
+    "a": "It alarms and stops discharge when oil content exceeds 15 parts per million.",
+    "ru": "Если содержание нефти выше 15 ppm, сброс должен остановиться автоматически."
+  },
+  {
+    "id": 36,
+    "section": "MARPOL",
+    "q": "What is a bunker delivery note?",
+    "a": "A bunker delivery note records the quantity and quality of fuel supplied to the ship.",
+    "ru": "BDN нужен для подтверждения характеристик топлива, особенно по sulfur content."
+  },
+  {
+    "id": 37,
+    "section": "MARPOL",
+    "q": "What is sulfur limit in fuel about?",
+    "a": "It limits sulfur content to reduce air pollution from ships.",
+    "ru": "Содержание серы регулируется MARPOL Annex VI и зонами ECA."
+  },
+  {
+    "id": 38,
+    "section": "MARPOL",
+    "q": "What is a reception facility?",
+    "a": "A reception facility receives ship-generated waste and residues ashore.",
+    "ru": "Судно должно сдавать отходы в портовые приемные сооружения и хранить квитанции."
+  },
+  {
+    "id": 39,
+    "section": "MARPOL",
+    "q": "What is accidental pollution reporting?",
+    "a": "It is reporting any actual or probable pollution incident to the proper authorities.",
+    "ru": "При загрязнении или угрозе загрязнения нужно немедленно сообщить согласно SOPEP/SMPEP."
+  },
+  {
+    "id": 40,
+    "section": "MARPOL",
+    "q": "Who is responsible for pollution prevention onboard?",
+    "a": "The Master has overall responsibility, while all crew members must follow pollution prevention procedures.",
+    "ru": "Капитан отвечает в целом, но каждый член экипажа обязан предотвращать загрязнение."
+  },
+  {
+    "id": 41,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is the IMSBC Code?",
+    "a": "The IMSBC Code provides mandatory requirements for the safe carriage of solid bulk cargoes.",
+    "ru": "Главный документ для балкеров. Нужно знать группы грузов, декларации, TML, влагу, опасности."
+  },
+  {
+    "id": 42,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is cargo liquefaction?",
+    "a": "Liquefaction occurs when certain cargoes lose shear strength and behave like a liquid due to moisture and vibration.",
+    "ru": "Разжижение может вызвать резкую потерю остойчивости и опрокидывание судна."
+  },
+  {
+    "id": 43,
+    "section": "IMSBC & Cargo Operations",
+    "q": "Which cargoes are vulnerable to liquefaction?",
+    "a": "Nickel ore, iron ore fines, bauxite fines and mineral concentrates may be vulnerable to liquefaction.",
+    "ru": "На интервью часто спрашивают Nickel Ore и Iron Ore Fines как самые известные примеры."
+  },
+  {
+    "id": 44,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is TML?",
+    "a": "TML means Transportable Moisture Limit.",
+    "ru": "TML — максимальная влажность, при которой груз разрешено перевозить безопасно."
+  },
+  {
+    "id": 45,
+    "section": "IMSBC & Cargo Operations",
+    "q": "Can cargo be loaded above TML?",
+    "a": "No. Cargo with moisture content above TML must not be accepted for loading.",
+    "ru": "Если влажность выше TML, груз не принимается. Коммерческое давление не имеет значения."
+  },
+  {
+    "id": 46,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is FMP?",
+    "a": "Flow Moisture Point is the moisture content at which cargo starts to flow.",
+    "ru": "FMP используется для определения TML. Обычно TML составляет 90% от FMP."
+  },
+  {
+    "id": 47,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What documents are required before loading Group A cargo?",
+    "a": "Cargo declaration, moisture content certificate and TML certificate are required.",
+    "ru": "Старпом должен проверить документы до начала погрузки и убедиться в сроках их действия."
+  },
+  {
+    "id": 48,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is Group A cargo?",
+    "a": "Group A cargo may liquefy if shipped at excessive moisture content.",
+    "ru": "Грузы группы A опасны разжижением."
+  },
+  {
+    "id": 49,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is Group B cargo?",
+    "a": "Group B cargo possesses chemical hazards.",
+    "ru": "Группа B может выделять газ, самонагреваться, быть токсичной или коррозионной."
+  },
+  {
+    "id": 50,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is Group C cargo?",
+    "a": "Group C cargo is neither liable to liquefy nor chemically hazardous.",
+    "ru": "Это менее опасные грузы, но все равно требуют правильной погрузки и крепления."
+  },
+  {
+    "id": 51,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What are the dangers of coal cargo?",
+    "a": "Coal may emit methane, self-heat and consume oxygen.",
+    "ru": "Уголь требует контроля атмосферы, температуры и вентиляции согласно IMSBC."
+  },
+  {
+    "id": 52,
+    "section": "IMSBC & Cargo Operations",
+    "q": "How should coal cargo be monitored?",
+    "a": "By checking temperature, methane, oxygen and carbon monoxide levels as required.",
+    "ru": "CO может указывать на самонагревание. Метан создает риск взрыва."
+  },
+  {
+    "id": 53,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is cargo declaration?",
+    "a": "It is a shipper's document describing cargo properties and hazards.",
+    "ru": "Без корректной декларации нельзя безопасно планировать перевозку."
+  },
+  {
+    "id": 54,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is hold cleanliness?",
+    "a": "Hold cleanliness means the cargo holds are clean, dry and suitable for the nominated cargo.",
+    "ru": "Перед загрузкой старпом проверяет трюмы, льяла, лестницы, крышки, остатки предыдущего груза."
+  },
+  {
+    "id": 55,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is hold inspection?",
+    "a": "It is inspection of cargo holds before loading to verify suitability and safety.",
+    "ru": "Может проводиться экипажем, сюрвейером, чартерером или терминалом."
+  },
+  {
+    "id": 56,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is the purpose of hatch covers?",
+    "a": "Hatch covers protect cargo and maintain watertight integrity of cargo holds.",
+    "ru": "Негерметичные крышки могут привести к повреждению груза и претензиям."
+  },
+  {
+    "id": 57,
+    "section": "IMSBC & Cargo Operations",
+    "q": "How do you check hatch cover tightness?",
+    "a": "By hose test, ultrasonic test, chalk test or visual inspection, depending on requirements.",
+    "ru": "На практике часто применяют ультразвуковой тест или hose test."
+  },
+  {
+    "id": 58,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is cargo plan?",
+    "a": "Cargo plan shows distribution of cargo in holds and loading/discharging sequence.",
+    "ru": "План должен учитывать остойчивость, прочность корпуса, осадки, трим и требования терминала."
+  },
+  {
+    "id": 59,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is loading sequence?",
+    "a": "It is the planned order of loading cargo holds and ballast operations.",
+    "ru": "Неправильная последовательность может вызвать превышение shear force/bending moment."
+  },
+  {
+    "id": 60,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is trimming of cargo?",
+    "a": "Trimming is leveling cargo surface to improve stability and reduce cargo shifting.",
+    "ru": "Особенно важно для навалочных грузов, склонных к смещению."
+  },
+  {
+    "id": 61,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is angle of repose?",
+    "a": "It is the angle cargo naturally forms with the horizontal when piled.",
+    "ru": "Используется для оценки склонности груза к смещению."
+  },
+  {
+    "id": 62,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is cargo shifting?",
+    "a": "Cargo shifting is movement of cargo that can create list and loss of stability.",
+    "ru": "Смещение груза опасно, особенно в плохую погоду."
+  },
+  {
+    "id": 63,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is stowage factor?",
+    "a": "Stowage factor is the volume occupied by one tonne of cargo.",
+    "ru": "Нужен для расчета вместимости трюмов и распределения груза."
+  },
+  {
+    "id": 64,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is draft survey?",
+    "a": "Draft survey determines cargo quantity by comparing displacement before and after loading or discharge.",
+    "ru": "Очень важная часть работы старпома на балкере."
+  },
+  {
+    "id": 65,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What readings are needed for draft survey?",
+    "a": "Forward, midship and aft drafts, water density, ballast, fuel, fresh water and constants are needed.",
+    "ru": "Ошибки в осадках, плотности или балласте дают неправильное количество груза."
+  },
+  {
+    "id": 66,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is cargo ventilation?",
+    "a": "Cargo ventilation is controlled air exchange to prevent cargo damage or hazardous atmosphere.",
+    "ru": "Режим вентиляции зависит от груза, точки росы, температуры и IMSBC."
+  },
+  {
+    "id": 67,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is sweat damage?",
+    "a": "Sweat damage is moisture damage caused by condensation inside cargo spaces.",
+    "ru": "Важны cargo sweat и ship sweat. Нужно понимать dew point."
+  },
+  {
+    "id": 68,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is ship sweat?",
+    "a": "Ship sweat is condensation on ship structure when warm moist air contacts cold steel.",
+    "ru": "Может капать на груз и вызывать повреждение."
+  },
+  {
+    "id": 69,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What is cargo sweat?",
+    "a": "Cargo sweat is condensation on cargo when cold cargo meets warm moist air.",
+    "ru": "Нужно правильно принимать решение о вентиляции."
+  },
+  {
+    "id": 70,
+    "section": "IMSBC & Cargo Operations",
+    "q": "What should you do if cargo documents are missing?",
+    "a": "Do not start loading until required cargo information and certificates are received and verified.",
+    "ru": "Без документов старпом не должен разрешать погрузку."
+  },
+  {
+    "id": 71,
+    "section": "Stability & Ballast",
+    "q": "What is ship stability?",
+    "a": "Ship stability is the ability of a vessel to return to an upright position after being inclined.",
+    "ru": "Базовое определение. На балкере остойчивость контролируется до, во время и после грузовых операций."
+  },
+  {
+    "id": 72,
+    "section": "Stability & Ballast",
+    "q": "What is GM?",
+    "a": "GM is the distance between the center of gravity and the metacenter.",
+    "ru": "GM показывает начальную остойчивость. Малый GM — вялое судно, большой GM — жесткая качка."
+  },
+  {
+    "id": 73,
+    "section": "Stability & Ballast",
+    "q": "What does positive GM mean?",
+    "a": "Positive GM means the ship has positive initial stability.",
+    "ru": "Судно способно возвращаться в прямое положение после крена."
+  },
+  {
+    "id": 74,
+    "section": "Stability & Ballast",
+    "q": "What does negative GM mean?",
+    "a": "Negative GM means the ship is unstable and may capsize.",
+    "ru": "Критически опасное состояние."
+  },
+  {
+    "id": 75,
+    "section": "Stability & Ballast",
+    "q": "What is free surface effect?",
+    "a": "Free surface effect is the reduction of stability caused by movement of liquid in partially filled tanks.",
+    "ru": "Частично заполненные танки снижают GM. По возможности танки держат полными или пустыми."
+  },
+  {
+    "id": 76,
+    "section": "Stability & Ballast",
+    "q": "How can free surface effect be reduced?",
+    "a": "By keeping tanks full or empty and minimizing slack tanks.",
+    "ru": "Особенно важно при балластировке и переходах."
+  },
+  {
+    "id": 77,
+    "section": "Stability & Ballast",
+    "q": "What is trim?",
+    "a": "Trim is the difference between forward and aft drafts.",
+    "ru": "Трим влияет на управляемость, расход топлива, осадку и грузовые операции."
+  },
+  {
+    "id": 78,
+    "section": "Stability & Ballast",
+    "q": "What is list?",
+    "a": "List is a permanent inclination to port or starboard caused by internal weight distribution.",
+    "ru": "Крен от груза, балласта или топлива — это list."
+  },
+  {
+    "id": 79,
+    "section": "Stability & Ballast",
+    "q": "What is heel?",
+    "a": "Heel is a temporary inclination caused by external forces such as wind or turning.",
+    "ru": "Heel временный, list постоянный."
+  },
+  {
+    "id": 80,
+    "section": "Stability & Ballast",
+    "q": "What is bending moment?",
+    "a": "Bending moment is a longitudinal force causing the hull to bend.",
+    "ru": "На балкере очень важно не превышать допустимые BM при loading/discharging."
+  },
+  {
+    "id": 81,
+    "section": "Stability & Ballast",
+    "q": "What is shear force?",
+    "a": "Shear force is a vertical force acting along the ship's length.",
+    "ru": "SF контролируется loading computer и грузовым планом."
+  },
+  {
+    "id": 82,
+    "section": "Stability & Ballast",
+    "q": "What is hogging?",
+    "a": "Hogging occurs when the middle of the ship bends upward.",
+    "ru": "Обычно возникает при большем весе на концах судна."
+  },
+  {
+    "id": 83,
+    "section": "Stability & Ballast",
+    "q": "What is sagging?",
+    "a": "Sagging occurs when the middle of the ship bends downward.",
+    "ru": "Обычно возникает при большем весе в средней части."
+  },
+  {
+    "id": 84,
+    "section": "Stability & Ballast",
+    "q": "What is the purpose of a loading computer?",
+    "a": "It calculates stability, trim, drafts, shear forces and bending moments.",
+    "ru": "Старпом обязан уметь пользоваться loading computer и проверять результаты."
+  },
+  {
+    "id": 85,
+    "section": "Stability & Ballast",
+    "q": "What is ballast water used for?",
+    "a": "Ballast water is used to control stability, trim, draft and structural stresses.",
+    "ru": "Балласт — основной инструмент управления судном без груза или во время грузовых операций."
+  },
+  {
+    "id": 86,
+    "section": "Stability & Ballast",
+    "q": "What is a Ballast Water Management Plan?",
+    "a": "It describes procedures for ballast water management and compliance with regulations.",
+    "ru": "План нужен для предотвращения переноса инвазивных видов."
+  },
+  {
+    "id": 87,
+    "section": "Stability & Ballast",
+    "q": "What is ballast water exchange?",
+    "a": "It is replacing ballast water taken in coastal waters with open-ocean water.",
+    "ru": "Используется как метод управления балластом, если применимо."
+  },
+  {
+    "id": 88,
+    "section": "Stability & Ballast",
+    "q": "What is deadweight?",
+    "a": "Deadweight is the total weight a ship can safely carry including cargo, fuel, water and stores.",
+    "ru": "DWT не равен только грузу. Включает все переменные веса."
+  },
+  {
+    "id": 89,
+    "section": "Stability & Ballast",
+    "q": "What is displacement?",
+    "a": "Displacement is the total weight of the vessel and everything onboard.",
+    "ru": "Судно вытесняет воду, равную своему общему весу."
+  },
+  {
+    "id": 90,
+    "section": "Stability & Ballast",
+    "q": "What is load line?",
+    "a": "Load line indicates the maximum permissible draft for safe loading.",
+    "ru": "Перегрузка нарушает Load Line Convention и опасна для плавучести."
+  },
+  {
+    "id": 91,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is the purpose of the ISM Code?",
+    "a": "The ISM Code provides an international standard for safe ship management and pollution prevention.",
+    "ru": "ISM — система управления безопасностью. На интервью ожидают понимание SMS, risk assessment и Master's authority."
+  },
+  {
+    "id": 92,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is SMS?",
+    "a": "SMS means Safety Management System.",
+    "ru": "SMS — процедуры компании и судна по безопасной эксплуатации."
+  },
+  {
+    "id": 93,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is Master's overriding authority?",
+    "a": "The Master has authority to make decisions necessary for safety and pollution prevention.",
+    "ru": "Коммерческое давление не должно влиять на безопасность."
+  },
+  {
+    "id": 94,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is non-conformity?",
+    "a": "A non-conformity is a situation where a specified requirement is not fulfilled.",
+    "ru": "Нужно сообщать, исправлять и анализировать причины."
+  },
+  {
+    "id": 95,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is near miss?",
+    "a": "A near miss is an incident that could have caused injury, damage or pollution but did not.",
+    "ru": "Near miss нужно расследовать, чтобы предотвратить аварию."
+  },
+  {
+    "id": 96,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is risk assessment?",
+    "a": "Risk assessment identifies hazards, evaluates risks and defines control measures.",
+    "ru": "Перед опасной работой должна быть оценка риска."
+  },
+  {
+    "id": 97,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is Permit to Work?",
+    "a": "It is a formal authorization for hazardous work under controlled conditions.",
+    "ru": "Применяется для hot work, enclosed space, working aloft, electrical work."
+  },
+  {
+    "id": 98,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is the purpose of ISPS Code?",
+    "a": "The ISPS Code provides a framework for maritime security.",
+    "ru": "ISPS защищает судно и порт от незаконных действий."
+  },
+  {
+    "id": 99,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What are the three security levels?",
+    "a": "Security Levels 1, 2 and 3 represent normal, heightened and exceptional threat conditions.",
+    "ru": "Level 1 — обычный, Level 2 — повышенный, Level 3 — непосредственная угроза."
+  },
+  {
+    "id": 100,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "Who is the Ship Security Officer?",
+    "a": "The SSO is the designated officer responsible for ship security duties.",
+    "ru": "На многих судах SSO — старпом."
+  },
+  {
+    "id": 101,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is STCW?",
+    "a": "STCW sets standards for training, certification and watchkeeping for seafarers.",
+    "ru": "STCW регулирует дипломы, вахту, компетентность и часы отдыха."
+  },
+  {
+    "id": 102,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What are minimum rest hours under STCW?",
+    "a": "At least 10 hours rest in any 24-hour period and 77 hours in any 7-day period.",
+    "ru": "Это важный вопрос по fatigue management."
+  },
+  {
+    "id": 103,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is BRM?",
+    "a": "Bridge Resource Management is the effective use of all bridge resources for safe navigation.",
+    "ru": "BRM снижает риск ошибки за счет коммуникации, контроля и teamwork."
+  },
+  {
+    "id": 104,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is MLC 2006?",
+    "a": "The Maritime Labour Convention sets minimum working and living standards for seafarers.",
+    "ru": "MLC называют четвертым столпом морского права вместе с SOLAS, MARPOL и STCW."
+  },
+  {
+    "id": 105,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What does MLC regulate?",
+    "a": "It regulates employment agreements, wages, accommodation, food, medical care and welfare.",
+    "ru": "PSC может проверять условия жизни экипажа, жалобы, контракт и питание."
+  },
+  {
+    "id": 106,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "Can a seafarer make a complaint onboard?",
+    "a": "Yes, through the onboard complaint procedure.",
+    "ru": "Жалоба должна рассматриваться без давления на моряка."
+  },
+  {
+    "id": 107,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is fatigue?",
+    "a": "Fatigue is reduced physical or mental performance caused by lack of rest or excessive workload.",
+    "ru": "Усталость — одна из главных причин морских аварий."
+  },
+  {
+    "id": 108,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "How do you manage fatigue?",
+    "a": "By planning work properly, complying with rest hours and monitoring crew workload.",
+    "ru": "Старпом и капитан должны реально контролировать часы труда и отдыха."
+  },
+  {
+    "id": 109,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is a safety meeting?",
+    "a": "A safety meeting discusses hazards, incidents, procedures and safety improvements.",
+    "ru": "Проводится для обучения экипажа и предотвращения аварий."
+  },
+  {
+    "id": 110,
+    "section": "ISM, ISPS, STCW & MLC",
+    "q": "What is toolbox talk?",
+    "a": "A toolbox talk is a short safety briefing before a specific job.",
+    "ru": "Перед работой обсуждают опасности, СИЗ, обязанности и порядок действий."
+  },
+  {
+    "id": 111,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What is Port State Control?",
+    "a": "PSC is an inspection by a foreign port authority to verify compliance with international regulations.",
+    "ru": "PSC проверяет судно в иностранном порту на соответствие конвенциям."
+  },
+  {
+    "id": 112,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What is the purpose of PSC?",
+    "a": "To eliminate substandard ships and ensure safety, security and environmental compliance.",
+    "ru": "Инспектор ищет серьезные несоответствия по SOLAS, MARPOL, STCW, MLC и Load Line."
+  },
+  {
+    "id": 113,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What is a PSC deficiency?",
+    "a": "A deficiency is a condition that does not comply with applicable requirements.",
+    "ru": "Недостатки должны быть устранены в срок."
+  },
+  {
+    "id": 114,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What can lead to detention?",
+    "a": "Serious deficiencies affecting safety, pollution prevention, security or crew welfare may lead to detention.",
+    "ru": "Detention — задержание судна до устранения серьезных нарушений."
+  },
+  {
+    "id": 115,
+    "section": "PSC, Vetting & Inspections",
+    "q": "How should crew behave during PSC inspection?",
+    "a": "Crew should be professional, honest, calm and familiar with their duties.",
+    "ru": "Нельзя угадывать или спорить. Лучше уверенно показать знания и документы."
+  },
+  {
+    "id": 116,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What certificates are usually checked by PSC?",
+    "a": "Safety, pollution prevention, load line, class, manning, MLC and security certificates.",
+    "ru": "Сертификаты должны быть действительными и соответствовать судну."
+  },
+  {
+    "id": 117,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What is vetting?",
+    "a": "Vetting is an assessment of ship condition, management and operational standards.",
+    "ru": "Для балкеров часто важен RightShip и требования чартереров."
+  },
+  {
+    "id": 118,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What is RightShip?",
+    "a": "RightShip is a risk management and vetting platform widely used in dry bulk shipping.",
+    "ru": "Многие фрахтователи проверяют балкеры через RightShip."
+  },
+  {
+    "id": 119,
+    "section": "PSC, Vetting & Inspections",
+    "q": "How do you prepare for vetting?",
+    "a": "By ensuring certificates, records, equipment, maintenance and crew readiness are in good order.",
+    "ru": "Веттинг — это не только документы, но и реальное состояние судна."
+  },
+  {
+    "id": 120,
+    "section": "PSC, Vetting & Inspections",
+    "q": "What is the best approach to inspections?",
+    "a": "Maintain continuous readiness instead of preparing only before inspection.",
+    "ru": "Лучшее судно всегда готово к проверке."
+  },
+  {
+    "id": 121,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is the purpose of COLREG?",
+    "a": "COLREG provides rules to prevent collisions at sea.",
+    "ru": "COLREG — основа безопасной навигации и один из главных разделов интервью."
+  },
+  {
+    "id": 122,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is a proper lookout?",
+    "a": "A proper lookout shall be maintained by sight, hearing and all available means.",
+    "ru": "Вахтенный помощник обязан использовать зрение, слух, radar, AIS, ECDIS и другие средства."
+  },
+  {
+    "id": 123,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is safe speed?",
+    "a": "Safe speed is a speed that allows proper and effective action to avoid collision.",
+    "ru": "Безопасная скорость зависит от видимости, трафика, маневренности, осадки и условий."
+  },
+  {
+    "id": 124,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is risk of collision?",
+    "a": "Risk of collision exists when compass bearing of another vessel remains constant and range decreases.",
+    "ru": "Постоянный пеленг и уменьшающаяся дистанция — классический признак риска столкновения."
+  },
+  {
+    "id": 125,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is CPA?",
+    "a": "CPA means Closest Point of Approach.",
+    "ru": "CPA показывает минимальную дистанцию расхождения."
+  },
+  {
+    "id": 126,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is TCPA?",
+    "a": "TCPA means Time to Closest Point of Approach.",
+    "ru": "TCPA показывает время до ближайшей точки сближения."
+  },
+  {
+    "id": 127,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What should you do in restricted visibility?",
+    "a": "Proceed at safe speed, use radar, sound signals and be ready for immediate maneuver.",
+    "ru": "В тумане важно соблюдать COLREG Rule 19 и не полагаться только на AIS."
+  },
+  {
+    "id": 128,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is passage planning?",
+    "a": "Passage planning ensures safe navigation from berth to berth.",
+    "ru": "Планирование перехода включает appraisal, planning, execution and monitoring."
+  },
+  {
+    "id": 129,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "When should the Master be called?",
+    "a": "The Master should be called whenever safety of navigation is in doubt or as per standing orders.",
+    "ru": "Лучше вызвать капитана раньше, чем поздно."
+  },
+  {
+    "id": 130,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is the first action on discovering fire?",
+    "a": "Raise the alarm immediately.",
+    "ru": "Сначала тревога, затем локализация и действия по Muster List."
+  },
+  {
+    "id": 131,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is the fire triangle?",
+    "a": "Heat, fuel and oxygen.",
+    "ru": "Для тушения нужно убрать один из элементов."
+  },
+  {
+    "id": 132,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is SCBA?",
+    "a": "SCBA provides breathable air for fire-fighting and rescue operations.",
+    "ru": "SCBA используется подготовленными членами аварийной партии."
+  },
+  {
+    "id": 133,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "When can CO2 be released?",
+    "a": "Only after evacuation, head count and Master's authorization.",
+    "ru": "CO₂ смертельно опасен. Перед пуском нужно убедиться, что людей нет внутри."
+  },
+  {
+    "id": 134,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is enclosed space?",
+    "a": "An enclosed space has limited openings and inadequate ventilation.",
+    "ru": "На балкере это трюмы, танки, cofferdams, chain locker и другие пространства."
+  },
+  {
+    "id": 135,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What must be done before enclosed space entry?",
+    "a": "Risk assessment, permit, ventilation, atmosphere testing, communication and rescue arrangements.",
+    "ru": "Без разрешения и проверки атмосферы вход запрещен."
+  },
+  {
+    "id": 136,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What oxygen level is normally safe?",
+    "a": "About 20.9 percent oxygen is considered normal atmosphere.",
+    "ru": "Низкий кислород смертельно опасен даже без запаха."
+  },
+  {
+    "id": 137,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What are enclosed space hazards?",
+    "a": "Oxygen deficiency, toxic gases, flammable gases and poor access.",
+    "ru": "Опасность часто невидима, поэтому нужен газоанализатор."
+  },
+  {
+    "id": 138,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is man overboard action?",
+    "a": "Raise alarm, release lifebuoy, keep visual contact, maneuver and inform the Master.",
+    "ru": "Главное — не потерять человека из виду и быстро начать маневр."
+  },
+  {
+    "id": 139,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is grounding action?",
+    "a": "Stop engines if required, assess damage, sound tanks, check pollution and notify authorities.",
+    "ru": "Капитан должен оценить безопасность, повреждения и риск загрязнения."
+  },
+  {
+    "id": 140,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is collision action?",
+    "a": "Raise alarm, assess damage, assist persons, control flooding, communicate and make required reports.",
+    "ru": "Приоритет — жизнь людей, плавучесть судна и предотвращение загрязнения."
+  },
+  {
+    "id": 141,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What is Master's role in emergency?",
+    "a": "The Master has overall command and coordinates emergency response.",
+    "ru": "Капитан управляет действиями экипажа и связью с берегом."
+  },
+  {
+    "id": 142,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What would you do if commercial pressure conflicts with safety?",
+    "a": "Safety must always take priority over commercial pressure.",
+    "ru": "Это ключевой ответ для капитана и старпома."
+  },
+  {
+    "id": 143,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "What qualities make a good Master?",
+    "a": "Leadership, judgment, communication, integrity and strong safety culture.",
+    "ru": "Компании ищут не только знания, но и зрелое управление экипажем."
+  },
+  {
+    "id": 144,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "How do you handle crew conflict?",
+    "a": "By listening to all sides, staying fair, acting early and maintaining discipline.",
+    "ru": "Нельзя игнорировать конфликты, они влияют на безопасность."
+  },
+  {
+    "id": 145,
+    "section": "Navigation, COLREG & Emergencies",
+    "q": "Why should we hire you?",
+    "a": "Because I have strong operational knowledge, safety awareness, leadership and commitment to company standards.",
+    "ru": "Финальный ответ должен быть уверенным, профессиональным и без лишней саморекламы."
+  },
+  {
+    "id": 146,
+    "section": "Master & Chief Officer Final",
+    "q": "How do you stop cargo operations if you see an unsafe condition?",
+    "a": "I would stop operations immediately, inform the Master and terminal, assess the risk and resume only when safe conditions are restored.",
+    "ru": "Старпом обязан остановить работу при опасности. Безопасность важнее скорости погрузки или давления терминала."
+  },
+  {
+    "id": 147,
+    "section": "Master & Chief Officer Final",
+    "q": "What would you do if loading exceeds bending moment or shear force limits?",
+    "a": "I would stop loading, inform the Master and terminal, recalculate the plan and adjust the loading and ballast sequence.",
+    "ru": "Превышение BM/SF опасно для корпуса. Нужно остановить операцию и исправить план."
+  },
+  {
+    "id": 148,
+    "section": "Master & Chief Officer Final",
+    "q": "How do you prepare a crew member for PSC questions?",
+    "a": "By regular training, drills, toolbox talks and ensuring each crew member knows his duties and equipment.",
+    "ru": "Экипаж должен понимать свои обязанности, а не заучивать ответы перед инспекцией."
+  },
+  {
+    "id": 149,
+    "section": "Master & Chief Officer Final",
+    "q": "What is the most important responsibility of the Chief Officer on a bulk carrier?",
+    "a": "To ensure safe cargo operations while maintaining stability, hull strength, pollution prevention and crew safety.",
+    "ru": "Главная работа старпома на балкере — безопасная грузовая операция с контролем остойчивости и прочности корпуса."
+  },
+  {
+    "id": 150,
+    "section": "Master & Chief Officer Final",
+    "q": "What is the most important responsibility of the Master?",
+    "a": "The Master is responsible for the safety of life, ship, cargo, environment and lawful operation of the vessel.",
+    "ru": "Капитан несет общую ответственность за людей, судно, груз, окружающую среду и выполнение требований закона."
+  }
+]
